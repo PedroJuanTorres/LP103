@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PercorreString", "PercorreString\PercorreString.csproj", "{BA271A45-D854-45B5-9C12-A5A605DAD745}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayBiDim", "ArrayBiDim\ArrayBiDim.csproj", "{AF13FA51-EC33-49BA-852B-2662E1FA9035}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,17 @@ Global
 		{BA271A45-D854-45B5-9C12-A5A605DAD745}.Release|x64.Build.0 = Release|Any CPU
 		{BA271A45-D854-45B5-9C12-A5A605DAD745}.Release|x86.ActiveCfg = Release|Any CPU
 		{BA271A45-D854-45B5-9C12-A5A605DAD745}.Release|x86.Build.0 = Release|Any CPU
+		{AF13FA51-EC33-49BA-852B-2662E1FA9035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF13FA51-EC33-49BA-852B-2662E1FA9035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF13FA51-EC33-49BA-852B-2662E1FA9035}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AF13FA51-EC33-49BA-852B-2662E1FA9035}.Debug|x64.Build.0 = Debug|Any CPU
+		{AF13FA51-EC33-49BA-852B-2662E1FA9035}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AF13FA51-EC33-49BA-852B-2662E1FA9035}.Debug|x86.Build.0 = Debug|Any CPU
+		{AF13FA51-EC33-49BA-852B-2662E1FA9035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF13FA51-EC33-49BA-852B-2662E1FA9035}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF13FA51-EC33-49BA-852B-2662E1FA9035}.Release|x64.ActiveCfg = Release|Any CPU
+		{AF13FA51-EC33-49BA-852B-2662E1FA9035}.Release|x64.Build.0 = Release|Any CPU
+		{AF13FA51-EC33-49BA-852B-2662E1FA9035}.Release|x86.ActiveCfg = Release|Any CPU
+		{AF13FA51-EC33-49BA-852B-2662E1FA9035}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
